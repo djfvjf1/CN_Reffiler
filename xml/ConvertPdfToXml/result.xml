@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document pageCount="1" pageCountWithOCRPerformed="0">
+  <page index="0" width="595.320007324219" height="841.919982910156" OCRWasPerformed="False">
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="24.0" fontStyle="Bold" color="#538DD3" x="36.00" y="34.44" width="242.81" height="24.00">Your Company Name</text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="76.94" width="66.62" height="11.04">Your Address</text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="91.46" width="69.14" height="11.04">City, State Zip</text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="461.02" y="115.94" width="98.42" height="11.04">Invoice No. 123456</text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="436.54" y="130.46" width="122.90" height="11.04">Invoice Date 01/01/2016</text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="36.00" y="154.94" width="63.62" height="11.04">Client Name</text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="169.70" width="40.34" height="11.04">Address</text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="184.22" width="69.14" height="11.04">City, State Zip</text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="233.30" width="28.70" height="11.04">Notes</text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="36.00" y="316.25" width="22.58" height="11.04">Item</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="247.61" y="316.25" width="44.64" height="11.04">Quantity</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="398.95" y="316.25" width="26.91" height="11.04">Price</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="533.14" y="316.25" width="26.30" height="11.04">Total</text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="341.33" width="30.62" height="11.04">Item 1</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="286.13" y="341.33" width="6.12" height="11.04">1</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="398.35" y="341.33" width="27.51" height="11.04">40.00</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="531.94" y="341.33" width="27.50" height="11.04">40.00</text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="362.45" width="30.62" height="11.04">Item 2</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="286.13" y="362.45" width="6.12" height="11.04">2</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="398.35" y="362.45" width="27.51" height="11.04">30.00</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="531.94" y="362.45" width="27.50" height="11.04">60.00</text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="383.57" width="30.62" height="11.04">Item 3</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="286.13" y="383.57" width="6.12" height="11.04">3</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="398.35" y="383.57" width="27.51" height="11.04">20.00</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="531.94" y="383.57" width="27.50" height="11.04">60.00</text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="36.00" y="404.93" width="30.62" height="11.04">Item 4</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="286.13" y="404.93" width="6.12" height="11.04">4</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="398.35" y="404.93" width="27.51" height="11.04">10.00</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" x="531.94" y="404.93" width="27.50" height="11.04">40.00</text>
+      </column>
+    </row>
+    <row>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text>
+        </text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="389.11" y="425.83" width="36.75" height="11.04">TOTAL</text>
+      </column>
+      <column>
+        <text fontName="Arial" fontSize="11.0" fontStyle="Bold" x="525.82" y="425.83" width="33.62" height="11.04">200.00</text>
+      </column>
+    </row>
+  </page>
+</document>
